@@ -1,0 +1,477 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(249, 241, 255) !important;
+}
+
+.icon {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    font-weight: lighter;
+    background-color: rgb(255, 255, 255);
+    gap: 20px;
+    padding: 10px;
+}
+
+.img {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.boton-elegante {
+    padding: 12px 22px;
+    border: 1px solid #2d5bf5;
+    color: #1c4adf;
+    font-size: 1.5rem ;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: all 0.2s ease;
+    font-weight: lighter;
+}
+
+.boton-elegante:hover {
+    background-color: #2d5bf5;
+    color: rgb(255, 255, 255);
+    transition: all 0.2s ease;
+}
+
+.MacBook {
+    display: flex !important;
+    margin-left: 2% ;
+    justify-content: center !important;
+    align-content: center !important;
+    font-weight: 100;
+    font-size: x-large;
+    padding: 0%;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.LM {
+    padding: 12px 22px;
+    border: 1px solid #2d5bf5;
+    background-color: #1c4adf;
+    color: #f6f8fc;
+    font-size: 1.5rem;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: all 0.2s ease;
+    font-weight: lighter;
+}
+
+.LM:hover {
+    background-color: #2d5bf5;
+}
+
+.Buy {
+    padding: 12px 22px;
+    border: 1px solid #2d5bf5;
+    color: #1c4adf;
+    font-size: 1.3rem;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: all 0.2s ease;
+    font-weight: lighter;
+}
+
+.Buy:hover {
+    color: #ffffff;
+    background-color: #2d5bf5;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    height: 400px;
+    width: 100%;
+}
+
+.iphone {
+    position: relative;
+    background-color: solid black;
+    color: rgb(255, 255, 255);
+    font-weight: 100;
+    font-size: x-large;
+    padding: auto;
+    height: 500px;
+    width: 100%;
+    background-image: url(assets/iphone.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+#LM2 {
+    margin-left: 40%;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.para {
+    display: flex;
+    justify-content: center;
+}
+
+.shop {
+    padding: 12px 20px;
+    border: 1px solid #2d5bf5;
+    background-color: #000000;
+    color: #1c4adf;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: all 0.2s ease;
+    font-weight: lighter;
+}
+
+.shop:hover {
+    background-color: #c3cdee;
+    color: solid white;
+}
+
+.box {
+    color: #000000;
+    font-size: large;
+    margin: auto;
+    padding: auto;
+    height: 550px;
+    width: 650px;
+    background-size: 105% 105%;
+}
+
+.main-div {
+    display: flex;
+}
+
+.div_buton {
+
+    padding: 10px 19px;
+    border: 1px solid #2d5bf5;
+    color: #1c4adf;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: all 0.2s ease;
+    font-weight: lighter;
+}
+
+#div_buton {
+    margin-left: 32%;
+}
+
+.box2 {
+    margin: auto;
+    padding: auto;
+    height: 550px;
+    width: 650px;
+    background-size: 100% 100%;
+}
+
+.main_divv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ipad {
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    font-size: xx-large;
+}
+
+.iPad {
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+}
+
+.ipad_pro {
+    margin-left: auto;
+    padding: 12px 22px;
+    border: 1px solid #2d5bf5;
+    background-color: #1c4adf;
+    color: #f6f8fc;
+    font-size: 1.3rem;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: all 0.2s ease;
+    font-weight: lighter;
+}
+
+#ipad_pro {
+    margin-left: 36%;
+}
+
+.watch {
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+    font-size: xx-large;
+}
+
+.watch_p {
+    display: flex;
+    justify-content: center;
+    color: #ffffff;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+}
+
+.box3 {
+    margin: auto;
+    padding: auto;
+    /* border: solid 4px white; */
+    height: 550px;
+    width: 650px;
+    background-size: 100% 100%;
+}
+
+.card_p {
+    display: flex;
+    justify-content: center;
+    color: #000000;
+}
+
+#car_pro {
+    margin-left: 32%;
+}
+
+.iphone11 {
+    display: flex;
+    justify-content: center;
+    color: #000000;
+    font-size: xx-large;
+}
+
+.iphone11_p {
+    display: flex;
+    justify-content: center;
+    color: #000000;
+}
+
+#getyour {
+    margin-left: 38%;
+}
+
+/* footer section  */
+.footer {
+    margin: 20px;
+  }
+  
+  .footer-content {
+    margin: 0 auto;
+    max-width: 980px;
+    padding: 0 22px;
+  }
+  
+  .footnotes {
+    border-bottom: 1px solid #d2d2d7;
+    padding: 17px 0 11px;
+  }
+  
+  .directory {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-size-adjust: 100%;
+    flex-direction: row;
+    align-content: flex-start;
+  }
+  
+  .directory-column {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+  }
+  
+  .directory-column-section {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .directory-column-section-title {
+    font-size: 12px;
+    margin-right: 20px;
+  }
+  
+  .directory-column-section-list {
+    list-style: none;
+    margin-right: 20px;
+    margin: 0
+  }
+  
+  .directory-column-section-link {
+    color: #424245;
+    text-decoration: none;
+    font-size: 12px;
+  }
+  
+  .footer-bottom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .footer-shop {
+    border-bottom: 1px solid #d2d2d7;
+    width: 100vw;
+    margin-bottom: 7px;
+    padding-bottom: 8px;
+  }
+  
+  .footer-legal {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer-legal-link {
+    margin: 0 10px;
+  }
+
+  @media screen and (max-width: 900px) {
+    .homepage-section{
+     /* width: 100%; */
+     display: flex;
+     flex-direction: column;
+     /* flex-wrap: wrap; */ 
+     background-size: cover
+    } 
+    .homepage-module1 {
+     font-family: "Open Sans", sans-serif;
+     background-size: cover;
+     background: url(./images/mini.jpg)
+       center center;
+     height: 580px;
+     width: 100%;
+     background-position: center;
+     background-repeat: no-repeat;
+   }
+   
+   .homepage-module2 {
+     font-family: "Open Sans", sans-serif;
+     background-size: cover;
+     background: url(./images/holiday\ girl.jpg)
+       center center;
+     background-size: cover;
+     height: 580px;
+     width: 100%;
+     top: 0;
+     margin-bottom: 10px;
+   }
+   
+   .wowmoji {
+     margin-top: 350px;
+   }
+   
+   .homepage-module3 {
+     font-family: "Open Sans", sans-serif;
+     background-size: cover;
+     background: url(./images/airpods.jpg)
+       center center;
+     background-size: cover;
+     height: 580px;
+     width: 100%;
+     top: 0;
+     right: auto;
+     margin-bottom: 10px;
+   }
+   
+   .apple-logo {
+     background-image: url("/v/home/av/images/logos/airpods-holiday-2022/promo_logo_airpods_holiday__uzkw355klvmy_large.png");
+   }
+   
+   .homepage-module4 {
+     font-family: "Open Sans", sans-serif;
+     background-size: cover;
+     background: url(./images/watch.jpg)
+       center center;
+     background-size: cover;
+     height: 580px;
+     width: 100%;
+     top: 0;
+     right: auto;
+   }
+   
+   .homepage-module5 {
+     font-family: "Open Sans", sans-serif;
+     background-size: cover;
+     background: url(./images/ipad\ pro.jpg)
+       center center;
+     height: 580px;
+     width: 100%;
+     top: 0;
+     right: auto;
+   }
+   
+   .m2chip-image {
+     width: 37px;
+     height: 37px;
+     background: url(./images/m2\ chip.png)
+       center center;
+   }
+   
+   .homepage-module6 {
+     font-family: "Open Sans", sans-serif;
+     background-size: cover;
+     background: url(./images/app\ store.jpg)
+       center center;
+     background-size: cover;
+     height: 580px;
+     width: 100%;
+     top: 0;
+     right: auto;
+   }
+     .headlinewi{
+      margin: 0%;
+       img width: 250px;
+       text-align: center;
+       font-size: 30px;
+       position: relative;
+       left: 50px;
+     }
+     .wil{
+       margin: 0%;
+     position: relative;
+     left: 50px;
+     }
+     .wit{
+       font-size: 30px;
+       position: relative;
+       left: 50px;
+     }
+     .headlinewe{
+       padding: 0%;
+       margin: 0%;
+       text-align: center;
+       font-size: 30px;
+       position: relative;
+       left: 50px;
+       bottom: 70px;
+     }
+     .headlinewt{
+       font-size: 50px;
+       position: relative;
+       bottom: 50px;
+       left: 50px;
+     }
+   
